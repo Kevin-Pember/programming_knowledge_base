@@ -4,6 +4,7 @@
 	- [[23. Remove Duplicates from sorted Array]]
 	- [[80. Remove Duplicates from sorted Array II]]
 	- [[169. Majority Element]]
+	- [[189. Rotate Array]]
 	-
 	-
 - Other
