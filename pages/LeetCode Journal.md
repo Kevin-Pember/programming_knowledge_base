@@ -1,6 +1,7 @@
 - Top Interview 150
 	- [[88. Merge Sorted Array]]
 	- [[27. Remove Element]]
-	- [[2239. Closest number to zero]]
 	-
--
+	-
+- Other
+	- [[2239. Closest number to zero]]
