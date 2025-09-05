@@ -1,2 +1,5 @@
+- If a division operation
 - otherwise known as the remainder of integer division
--
+- Examples
+	- 7 % 3 = 1
+	- 9 % 5 = 4
