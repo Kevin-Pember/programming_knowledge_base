@@ -1,1 +1,1 @@
-- [[Algorithmic Paradigms]]
+- #[[Algorithmic Paradigms]]
