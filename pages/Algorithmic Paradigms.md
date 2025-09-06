@@ -1,2 +1,2 @@
 - Definition
-	- Ge
+	- Concepts that define a General design pattern to a
