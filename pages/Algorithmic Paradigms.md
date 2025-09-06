@@ -3,6 +3,7 @@
 - Examples
 	- #[[Greedy Algorithm]]
 	- #[[Dynamic Programming]]
+	- #[[Sliding Window]]
 	-
 -
 -
