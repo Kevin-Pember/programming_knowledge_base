@@ -1,2 +1,3 @@
 - #[[Algorithmic Paradigms]]
--
+- Definition
+	- An algorithm that continuously chooses the locally
