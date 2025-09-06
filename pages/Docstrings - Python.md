@@ -23,5 +23,20 @@
 		  ```
 	- Numpydoc Format: [Link](https://peps.python.org/pep-0008/)
 		- ```
+		      """
+		      Divide two numbers.
+		  
+		      Parameters
+		      ----------
+		      a : float
+		          The dividend.
+		      b : float
+		          The divisor.
+		  
+		      Returns
+		      -------
+		      float
+		          The quotient of the division.
+		      """
 		  ```
 -
