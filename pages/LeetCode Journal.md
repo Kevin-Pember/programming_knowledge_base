@@ -15,6 +15,7 @@
 	- ### #[[238. Product of Array except itself]]
 	- ### #[[134. Gas Station]]
 	- ### #[[135. Candy]]
+	- ### #[[42. Trapping Rainwater]]
 	-
 - Other
 	- ### #[[2239. Closest number to zero]]
