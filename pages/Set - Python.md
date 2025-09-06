@@ -2,4 +2,5 @@
 - Use
 	- This object is a implementation of a set in Discrete Mathematics
 - Implementation
-	- uses a [[Hashmap]] for quick lookup and
+	- uses a [[Hashmap]] for quick lookup which also prevents duplicates
+-
