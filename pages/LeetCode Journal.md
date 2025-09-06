@@ -9,6 +9,7 @@
 	- ### #[[122. Best time to buy and sell stock II]]
 	- ### #[[55. Jump Game]]
 	- ### #[[45. Jump Game II]]
+	- ### #[[274. H-Index]]
 - Other
 	- ### #[[2239. Closest number to zero]]
 	- ### #[[1768. Merge Strings Alternately]]
