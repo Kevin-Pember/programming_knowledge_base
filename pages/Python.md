@@ -1,1 +1,2 @@
-- An Object Oriented Interpre
+- An Object Oriented Interpreted programming language
+- Examples: [[Python Implementation]]
