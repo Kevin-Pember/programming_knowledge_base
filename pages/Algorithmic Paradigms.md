@@ -1,5 +1,5 @@
 - Definition
-	- Concepts that define a General design pattern to a algorithm
+	- Concepts that define a General design pattern or categorization of an algorithm
 - Examples
 	- #Greedy_Algorithm
 	-
