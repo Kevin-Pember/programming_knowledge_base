@@ -4,6 +4,6 @@
 - Format
 	- Single triple quotes ''' like these ''' or Double triple quotes """or these"""
 	- They should start with a capital and end with a period
-	- first line should be a sumerization
+	- first line should be a summary of what the
 -
 -
