@@ -8,7 +8,7 @@
 	- second line should be a space separating first line from the rest
 	- subsequent lines should describe calling conventions and more
 - Project Formats
-	- Googles's Format
+	- Googles's Format: [ling]
 		- ```
 		  	"""
 		      Multiplies two numbers and returns the result.
