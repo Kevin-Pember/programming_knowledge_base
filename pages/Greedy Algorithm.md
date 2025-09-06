@@ -1,3 +1,3 @@
 - #[[Algorithmic Paradigms]]
 - Definition
-	- An algorithm that continuously chooses the locally
+	- An algorithm that continuously chooses the locally optimal  choice assuming that doing this is globally optimal
