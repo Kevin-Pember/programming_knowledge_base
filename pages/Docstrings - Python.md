@@ -8,7 +8,7 @@
 	- second line should be a space separating first line from the rest
 	- subsequent lines should describe calling conventions and more
 - Project Formats
-	- Googles's Format: [ling]
+	- Googles's Format: [link](https://google.github.io/styleguide/pyguide.html)
 		- ```
 		  	"""
 		      Multiplies two numbers and returns the result.
@@ -21,7 +21,7 @@
 		          int: The product of a and b.
 		      """
 		  ```
-	- Numpydoc Format: [Link](https://peps.python.org/pep-0008/)
+	- Numpydoc Format: [Link](https://numpydoc.readthedocs.io/en/latest/format.html)
 		- ```
 		      """
 		      Divide two numbers.
