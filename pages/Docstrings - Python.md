@@ -3,5 +3,5 @@
 - Format
 	- Single triple quotes ''' like these '''
 	- Double triple quotes """or these"""
-	- Te=
+	- They should start with a capi
 -
