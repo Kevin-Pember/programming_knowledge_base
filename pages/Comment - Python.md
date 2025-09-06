@@ -1,3 +1,3 @@
 - #[[Python]]
-- # Two Types of comments
--
+- ## Primary Comment Form
+	- In python comments are demarka
