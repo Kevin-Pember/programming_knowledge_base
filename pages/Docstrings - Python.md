@@ -1,6 +1,7 @@
 - #Python
 - What are they used for
-	- Used to describe what a function does
+	- Used to describe what a function does and how to call it
+	- Not limited to only python, other languages such as
 	-
 - Format
 	- Single triple quotes ''' like these ''' or Double triple quotes """or these"""
