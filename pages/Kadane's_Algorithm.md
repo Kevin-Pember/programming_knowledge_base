@@ -1,2 +1,3 @@
-- #[[Eponymous Algorithms]]
--
+- #[[Eponymous Algorithms]] #[[Dynamic Programming]]
+- Definition
+	- A dynamic programming algorithm
