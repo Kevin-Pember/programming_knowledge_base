@@ -1,2 +1,6 @@
 - Definition
-	- Concepts that define a General design pattern to a
+	- Concepts that define a General design pattern to a algorithm
+- Examples
+	- #Greedy_Algorithm
+	-
+-
