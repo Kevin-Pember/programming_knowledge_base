@@ -2,5 +2,6 @@
 	- Concepts that define a General design pattern or categorization of an algorithm
 - Examples
 	- #[[Greedy Algorithm]]
-	-
+	- #[[Dynamic Programming]]
+-
 -
