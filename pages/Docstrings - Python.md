@@ -9,4 +9,16 @@
 	- subsequent lines should describe calling conventions and more
 - Project Formats
 	- Googles's Format
--
+		- ```
+		  	"""
+		      Multiplies two numbers and returns the result.
+		  
+		      Args:
+		          a (int): The first number.
+		          b (int): The second number.
+		  
+		      Returns:
+		          int: The product of a and b.
+		      """
+		  ```
+	- Numpy's Format
