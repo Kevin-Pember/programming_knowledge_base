@@ -4,6 +4,8 @@
 - Format
 	- Single triple quotes ''' like these ''' or Double triple quotes """or these"""
 	- They should start with a capital and end with a period
-	- first line should be a summary of what the
+	- first line should be a summary of what the function does
+	- second line should be a space separating first line from the rest
+	- subse
 -
 -
