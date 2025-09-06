@@ -1,4 +1,5 @@
 - #[[Eponymous Algorithms]] #[[Dynamic Programming]]
 - Definition
 	- A dynamic programming algorithm for finding the maximum sub array of a larger array.
-- Specifi
+- Specification
+	- In the algorithm we have a max_current and a max_global, both are initialized to the first value of the array
