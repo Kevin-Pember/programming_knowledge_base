@@ -1,9 +1,8 @@
 - Top Interview 150
 	- ### #[[88. Merge Sorted Array]]
 	- ### #[[27. Remove Element]]
-	- [[23. Remove Duplicates from sorted Array]]
-	- ### #
-	- [[80. Remove Duplicates from sorted Array II]]
+	- ### #[[23. Remove Duplicates from sorted Array]]
+	- ### #[[80. Remove Duplicates from sorted Array II]]
 	- [[169. Majority Element]]
 	- [[189. Rotate Array]]
 	- [[121. Best time to buy and sell stock]]
