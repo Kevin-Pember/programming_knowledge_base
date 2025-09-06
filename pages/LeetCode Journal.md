@@ -5,11 +5,11 @@
 	- ### #[[80. Remove Duplicates from sorted Array II]]
 	- ### #[[169. Majority Element]]
 	- ### #[[189. Rotate Array]]
-	- [[121. Best time to buy and sell stock]]
-	- [[122. Best time to buy and sell stock II]]
-	- [[55. Jump Game]]
-	- [[45. Jump Game II]]
+	- ### #[[121. Best time to buy and sell stock]]
+	- ### #[[122. Best time to buy and sell stock II]]
+	- ### #[[55. Jump Game]]
+	- ### #[[45. Jump Game II]]
 - Other
-	- [[2239. Closest number to zero]]
-	- [[1768. Merge Strings Alternately]]
+	- ### #[[2239. Closest number to zero]]
+	- ### #[[1768. Merge Strings Alternately]]
 	-
