@@ -1,1 +1,1 @@
-- Object-Oriented Interpreted Programing
+- Object-Oriented Interpreted Programming Language
