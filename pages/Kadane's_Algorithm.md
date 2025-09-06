@@ -1,3 +1,4 @@
 - #[[Eponymous Algorithms]] #[[Dynamic Programming]]
 - Definition
-	- A dynamic programming algorithm for finding the maximum sub array of a la
+	- A dynamic programming algorithm for finding the maximum sub array of a larger array.
+- Specifi
