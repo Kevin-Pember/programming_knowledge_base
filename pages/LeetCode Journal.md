@@ -7,6 +7,7 @@
 	- [[189. Rotate Array]]
 	- [[121. Best time to buy and sell stock]]
 	- [[122. Best time to buy and sell stock II]]
+	- [[55. Jump Game]]
 	-
 - Other
 	- [[2239. Closest number to zero]]
