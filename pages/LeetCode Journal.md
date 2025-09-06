@@ -10,7 +10,7 @@
 	- ### #[[55. Jump Game]]
 	- ### #[[45. Jump Game II]]
 	- ### #[[274. H-Index]]
-	-
+	- ### #[[380. Insert Delete GetRandom O(1)]]
 - Other
 	- ### #[[2239. Closest number to zero]]
 	- ### #[[1768. Merge Strings Alternately]]
