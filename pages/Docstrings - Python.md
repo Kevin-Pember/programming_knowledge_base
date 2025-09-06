@@ -6,6 +6,6 @@
 	- They should start with a capital and end with a period
 	- first line should be a summary of what the function does
 	- second line should be a space separating first line from the rest
-	- subsequent lines
+	- subsequent lines should describe calling conventions and more
 -
 -
