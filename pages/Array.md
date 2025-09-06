@@ -1,2 +1,2 @@
-- #[[Data Types]] #[[Data Structure]]
+- #[[Data Type]] #[[Data Structure]]
 -
