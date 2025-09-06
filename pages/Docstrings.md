@@ -1,6 +1,7 @@
 - #Python
 - What are they used for
 	- Used to describe what a function does
+	-
 - Format
 	- Single triple quotes ''' like these ''' or Double triple quotes """or these"""
 	- They should start with a capital and end with a period
