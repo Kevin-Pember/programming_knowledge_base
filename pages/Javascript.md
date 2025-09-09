@@ -1,1 +1,1 @@
-- - Examples: [[Python Implementation]]
+- Examples: [[Javascript Implementation]]
