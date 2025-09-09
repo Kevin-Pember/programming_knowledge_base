@@ -11,13 +11,15 @@
 	- ### #[[45. Jump Game II]]
 	- ### #[[274. H-Index]]
 	- ### #[[380. Insert Delete GetRandom O(1)]]
-	-
 	- ### #[[238. Product of Array except itself]]
 	- ### #[[134. Gas Station]]
 	- ### #[[135. Candy]]
 	- ### #[[42. Trapping Rainwater]]
 	- ### #[[13. Roman to Integer]]
 	- ### #[[12. Integer to Roman]]
+	- ### #[[58. Length of Last Word]]
+	- ### #[[14. Longest Common Prefix]]
+	- ### #[[151. Reverse Words in a String]]
 - Other
 	- ### #[[2239. Closest number to zero]]
 	- ### #[[1768. Merge Strings Alternately]]
