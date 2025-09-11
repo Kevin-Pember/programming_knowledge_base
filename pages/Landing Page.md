@@ -1,0 +1,2 @@
+- Exercicises
+	- ## [[LeetCode Journal]]
