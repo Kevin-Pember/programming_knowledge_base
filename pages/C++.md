@@ -1,4 +1,6 @@
 - Examples: [[C++ Implementation]]
 - Topics
 	- ## #[[stringstream - C++]]
+- Objects
+	- ### #[[Vectors - C++]]
 	-
