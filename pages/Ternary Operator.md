@@ -1,0 +1,15 @@
+- #C++ #Javascript #Python
+- Traditional Operator
+	- The traditional form of the ternary operator looks like the following example
+	- Example:
+		- ``condition ? value_if_true : value_if_false``
+	- Languages
+		- The languages that implement that traditional ternary operator
+		- [[C++]]
+		- [[Javascript]]
+- Special Operators
+	- [[Python]]
+		- Rather than a traditional implementation python uses a one line if statement approach
+		- Example
+			- ``value_if_true if condition else value_if_false``
+-
