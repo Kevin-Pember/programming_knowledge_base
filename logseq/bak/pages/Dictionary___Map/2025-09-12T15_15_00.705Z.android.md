@@ -1,0 +1,6 @@
+- #[[Data Structure]]
+- Definition
+	- A key value pair data structur
+- Implementations
+	- #Hashmap
+-
