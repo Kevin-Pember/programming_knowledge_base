@@ -22,17 +22,13 @@
 - Image to Remember
   template:: Image to Remember
 	- TODO Create image to remember
--
-	-
-	-
-	-
-	- # **Control Flow**
+- Programing Language
+	- # **[[Control Flow]]**
 		-
-	- # **Operators**
-		- [[modulo (%)]]
+	- # **[[Operators]]**
+		-
 	- # **[[Data Types]]**
-		- ### [[Integer]]
-		- ### [[String]]
+		-
 	- # **[[Data Structures]]**
 		- ### [[Set]]
 		- ### [[Dictionary/Map]]
