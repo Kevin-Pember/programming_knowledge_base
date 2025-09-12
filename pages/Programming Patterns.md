@@ -1,1 +1,1 @@
-- This is a language a
+- This is a language agnostic guide for programming concepts and patterns which are used in all languages. This
