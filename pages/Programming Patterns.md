@@ -3,7 +3,7 @@
 	-
 - # **Operators**
 	- [[modulo (%)]]
-- # **Data Types**
+- # **[[Data Types]]**
 	- ### [[Integer]]
 	- ### [[String]]
 - # **[[Data Structures]]**
