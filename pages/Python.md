@@ -1,6 +1,4 @@
-- An Object Oriented Interpreted programming language
-- Examples: [[Python Implementation]]
-- History -
+- History - An Object Oriented Interpreted programming language
 	- # **[[Control Flow]]**
 		-
 	- # **[[Operators]]**
@@ -12,4 +10,4 @@
 	- # **[[Objects]]**
 		-
 	- # **Examples**
-		-
+		- ### [[Python Implementation]]
