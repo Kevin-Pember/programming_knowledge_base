@@ -23,6 +23,7 @@
   template:: Image to Remember
 	- TODO Create image to remember
 - Programing Language
+  template:: Programming Language
 	- # **[[Control Flow]]**
 		-
 	- # **[[Operators]]**
@@ -30,7 +31,7 @@
 	- # **[[Data Types]]**
 		-
 	- # **[[Data Structures]]**
-		- ### [[Set]]
-		- ### [[Dictionary/Map]]
-		- ##
-	- # **Objects**
+		-
+	- # **[[Objects]]**
+		-
+-
