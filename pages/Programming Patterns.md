@@ -2,8 +2,9 @@
 - # **Control Flow**
 	-
 - # **Operators**
-	- [[]]
+	- [[modulo (%)]]
 - # **Data Types**
+	- ### [[Integer]]
 - # **Data Structures**
 	- ### [[Set]]
 	- ### [[Dictionary/Map]]
