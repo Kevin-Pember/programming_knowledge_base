@@ -3,7 +3,9 @@
 - Language Guids
 	- ## [[Programming Patterns]]
 	- ## [[C++]]
-		- 33
+		- #### [[C++ Implementation]]
 	- ## [[Javascript]]
+		- #### [[Javascript Implementation]]
 	- ## [[Python]]
+		- [[Python Implementation]]
 -
