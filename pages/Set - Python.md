@@ -1,4 +1,4 @@
-- #[[Python]] #[[Set]] #[[Data Structure]]
+- #[[Python]] #[[Set]] #[[Data Structures]]
 - Use
 	- This object is a implementation of a set in Discrete Mathematics
 - Implementation

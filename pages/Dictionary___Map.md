@@ -1,4 +1,4 @@
-- #[[Data Structure]]
+- #[[Data Structures]]
 - Definition
 	- A key value pair data structur
 - Implementations
