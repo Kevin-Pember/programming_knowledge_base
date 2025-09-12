@@ -1,4 +1,6 @@
 - This is a language agnostic guide for programming concepts and patterns which are used in all languages. Specific languages will be linked to each of the ideas to see how to implement these in specific langauges
 - # **Control Flow**
 - # **Operators**
-- # Data
+- # **Data Types**
+- # **Data Structures**
+- # **Objects**
