@@ -7,6 +7,7 @@
 	- ### [[Integer]]
 	- ### [[String]]
 - # **[[Data Structures]]**
+	- ### [[Array]]
 	- ### [[Set]]
 	- ### [[Dictionary/Map]]
 	- ##
