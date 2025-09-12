@@ -6,7 +6,7 @@
 - # **Data Types**
 	- ### [[Integer]]
 	- ### [[String]]
-- # **Data Structures**
+- # **[[Data Structures]]**
 	- ### [[Set]]
 	- ### [[Dictionary/Map]]
 	- ##

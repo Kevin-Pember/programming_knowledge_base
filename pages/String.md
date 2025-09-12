@@ -1,1 +1,1 @@
-- #[[Data Type]]
+- #[[Data Types]]
