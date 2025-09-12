@@ -1,6 +1,8 @@
 - This is a language agnostic guide for programming concepts and patterns which are used in all languages. Specific languages will be linked to each of the ideas to see how to implement these in specific langauges
 - # **Control Flow**
+	-
 - # **Operators**
 - # **Data Types**
 - # **Data Structures**
+	- ### [[122. Best time to buy and sell stock II]]
 - # **Objects**
