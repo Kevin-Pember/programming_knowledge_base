@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Landing Page"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -421,6 +421,6 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
  :builtin-pages? false
- :orphan-pages? true
+ :orphan-pages? false
  :excluded-pages? true}
  :editor/preferred-pasting-file? true}
