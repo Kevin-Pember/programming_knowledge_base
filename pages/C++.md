@@ -8,11 +8,9 @@
 	- # **[[Data Structures]]**
 		-
 	- # **[[Objects]]**
-		-
+		- ### [[stringstream - C++]]
 	- # **Examples**
 		- ### [[C++ Implementation]]
-- Topics
-	- ## #[[stringstream - C++]]
 - Objects
 	- ### #[[Vectors - C++]]
 	-
