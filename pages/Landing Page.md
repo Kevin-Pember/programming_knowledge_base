@@ -1,6 +1,7 @@
 - Exercicises
 	- ## [[LeetCode Journal]]
 - Language Guids
+	- ## [[Programming Patterns]]
 	- ## [[C++]]
 	- ## [[Javascript]]
 	- ## [[Python]]
