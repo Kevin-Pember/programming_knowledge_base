@@ -5,6 +5,7 @@
 	- [[modulo (%)]]
 - # **[[Data Types]]**
 	- ### [[Integer]]
+	- ### [[Character]]
 	- ### [[String]]
 - # **[[Data Structures]]**
 	- ### [[Array]]
