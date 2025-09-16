@@ -6,7 +6,8 @@
 	- # **[[Data Types]]**
 		-
 	- # **[[Data Structures]]**
-		- ### [[Data Structures]]
+		- Definition [[Data Structures]]
+		- ###
 	- # **[[Objects]]**
 		- ### [[stringstream - C++]]
 	- # **Examples**
