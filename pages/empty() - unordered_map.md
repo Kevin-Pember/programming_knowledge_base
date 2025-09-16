@@ -1,1 +1,3 @@
-- Ret
+- Return Type
+	- Boolean - True if the map is empty false if it isn't
+- Example
