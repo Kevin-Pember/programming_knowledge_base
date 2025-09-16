@@ -1,4 +1,4 @@
 - Definition
-	- Associative container with key value pairs. The underlying
+	- Associative container with key value pairs. The underlying data structure of this implementation is a [[Hashmap]] making the search, removal, and in
 - Methods
 -
