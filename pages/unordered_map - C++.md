@@ -1,3 +1,4 @@
 - Definition
+	- Associative container with key value pairs. Due to this it
 - Methods
 -
