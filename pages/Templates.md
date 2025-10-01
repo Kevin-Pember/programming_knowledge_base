@@ -1,6 +1,7 @@
 - LeetCode Entry
   template:: LeetCode Journal
   template-including-parent:: false
+  collapsed:: true
 	- Goal
 	  template:: Goal
 		-
@@ -15,18 +16,22 @@
 		- TODO Create image to remember
 - [[Python Implementation]] #card 
   template:: Python Implementation
+  collapsed:: true
 	- ```
 	  ```
 - [[C++ Implementation]] #card
   template:: C++ Implementation
+  collapsed:: true
 	- ```
 	  ```
 - [[Javascript Implementation]] #card 
   template:: Javascript Implementation
+  collapsed:: true
 	- ```
 	  ```
 - History - 
   template:: Programming Language
+  collapsed:: true
 	- # **[[Control Flow]]**
 		-
 	- # **[[Operators]]**
@@ -39,4 +44,23 @@
 		-
 	- # **Examples**
 		-
--
+- object
+  template:: object
+  template-including-parent:: false
+  collapsed:: true
+	- Definition
+		-
+	- Usecase
+		-
+	- Example
+		- `` ``
+	- Properties
+		-
+	- Member Functions
+		-
+	- Similar
+		-
+- pattern
+  template:: pattern
+  template-including-parent:: false
+	-

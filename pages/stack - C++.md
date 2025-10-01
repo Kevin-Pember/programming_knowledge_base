@@ -1,0 +1,13 @@
+- #[[STL - C++]]
+- Definition
+	- a [[C++ Implementation]] of the stack data structure
+- Usecase
+	- Anything that requires a first in last out structure
+- Example
+	- `` ``
+- Properties
+	-
+- Member Functions
+	- [[push() - stack - C++]]
+- Similar
+	-

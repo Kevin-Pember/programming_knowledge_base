@@ -33,6 +33,9 @@
 	- ### #[[209. Minimum Size Subarray Sum]]
 	- ### #[[3. Longest Substring Without Repeating Characters]]
 	- ### #[[30. Substring with Concatenation of All Words]]
+	- ### #[[76. Minimum Window Substring]]
+	- ### #[[36. Valid Sudoku]]
+	-
 -
 - Other
 	- ### #[[2239. Closest number to zero]]

@@ -1,0 +1,12 @@
+- Definition
+	- A data structure that provides an abstraction for the [[Set]] in discrete mathematics
+- Usecase
+	- underlying data structure is a hash map so look up is O(1)
+- Example
+	- `` ``
+- Properties
+	-
+- Member Functions
+	-
+- Similar
+	- [[Set - Python]]

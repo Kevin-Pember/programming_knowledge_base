@@ -1,6 +1,10 @@
 - History -
 	- # **[[Control Flow]]**
 		-
+	- # **[[I/O]]**
+		- [[istream - C++]]
+		- [[cin - C++]]
+		-
 	- # **[[Operators]]**
 		-
 	- # **[[Data Types]]**
@@ -8,6 +12,8 @@
 	- # **[[Data Structures]]**
 		- Definition [[Data Structures]]
 		- ### [[unordered_map - C++]]
+		- ### [[stack - C++]]
+		- ### [[vectors - C++]]
 	- # **[[Objects]]**
 		- ### [[stringstream - C++]]
 	- # **Examples**

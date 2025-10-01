@@ -1,0 +1,12 @@
+- Definition
+	- Stands for input [[String]] and is one of the base stream classes
+- Usecase
+	- Most often your use of this class will happen through its children
+- Example
+	- `` ``
+- Properties
+	-
+- Member Functions
+	-
+- Similar
+	-

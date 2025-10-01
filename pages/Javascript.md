@@ -6,7 +6,7 @@
 	- # **[[Data Types]]**
 		-
 	- # **[[Data Structures]]**
-		-
+		- [[Set - Javascript]]
 	- # **[[Objects]]**
 		-
 	- # **Examples**

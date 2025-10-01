@@ -1,10 +1,14 @@
 - Definition
 	- Associative container with key value pairs. The underlying data structure of this implementation is a [[Hashmap]] making the search, removal, and insertion of elements have constant time
+- Usecase
+	-
 - Example
 	- ``unordered_map<int, string> um = {{1, "Geeks"}, {2, "For"}, {3, "C++"}}; ``
 	  id:: 68d0986d-4f5f-4625-9851-f62c2134e826
+- Properties
+	-
 - Member Functions
 	- [[empty() - unordered_map]]
-	-
--
--
+	- [[find() - unordered_map]]
+- Similar
+	- [[Dictionary/Map]]

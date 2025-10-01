@@ -11,6 +11,7 @@
 	- ### [[Array]]
 	- ### [[Set]]
 	- ### [[Dictionary/Map]]
+	- ### [[Stack]]
 	- ##
 - # **Objects**
 -

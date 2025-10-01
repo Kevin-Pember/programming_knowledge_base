@@ -1,0 +1,24 @@
+- Definition
+	- For user input in a command line interface
+- Usecase
+	- Console input
+- Example
+	- ``cin >> num ``
+- Properties
+	-
+- Member Functions
+	- get()
+		- Reads a single [[Character]] from the input stream
+		- get(string_name, size)
+			- parameters
+				- string_name - [[Array]] of chars
+				- size - number of chars
+	- getline()
+		- Reads a line of text only stopping at a new line [[Character]]
+	- ignore(count, delimiter)
+		- used to ignore
+		- parameters
+			- count - maximum
+	-
+- Similar
+	-

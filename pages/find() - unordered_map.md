@@ -1,0 +1,4 @@
+- Parameters
+	- takes a key value of the key type
+- Return
+	- returns a pointer to that key value pair, returns the end pointer if its not in the map
